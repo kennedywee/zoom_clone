@@ -1,4 +1,4 @@
-const RootLayout = ({ children }: { children: ReactNode }) => {
+const RootLayout = ({ children }: { children: React.ReactNode }) => {
   return <main>{children}</main>;
 };
 
